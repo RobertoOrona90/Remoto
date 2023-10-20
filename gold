@@ -1,0 +1,4 @@
+public class StrategicMap {
+    public  string    KpiValue;
+    
+}
