@@ -1,4 +1,6 @@
 public class StrategicMap {
-    public  string    KpiValue;
-    
+    public string KpiValue  { get;set;}
+    public DateTime KpiEndDate;
+    public Int32 KpiProgress;
+    public Float CalculatedResult;
 }
